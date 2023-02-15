@@ -9,7 +9,6 @@
 
 - 🇧🇷  Planing the "UP - design system";
 - 🪴 Studing UX concepts
-- 🍑 What about this?
 
 ##### BIO
 
@@ -18,6 +17,5 @@
 - 🌍 I'm mostly active within the **discord dev**
 - 🌱 Learning all about **Open Source**
 - 💬 Ping me about **design**, **api consume**, **ux process**, **development front end**, **ui designer**
-- 📫 Reach me: [twitter.com/jhonatanborg](https://twitter.com/jhonatanborg)
 - ⚡️ Fun fact: I'm a huge fan of sci-fi
 
